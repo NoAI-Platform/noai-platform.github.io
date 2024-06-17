@@ -1,12 +1,14 @@
 ---
 permalink: /
 layout: home
-title: Welcome
+title: 
 list_title: News
 ---
 
-Welcome to our home page! This is where we share our latest news and development. 
+<img src="../assets/imgs/logo.png" alt="Welcome Image">
 
-Stay tuned! 🤩
+## Welcome to our home page! This is where we share our latest news and development. Stay tuned! 🤩
+
+
 <!-- [`minima` theme][minima] -->
 <!-- [gh-site]: https://pages.github.com/ -->
