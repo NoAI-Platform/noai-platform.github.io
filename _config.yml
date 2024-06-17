@@ -1,0 +1,44 @@
+title: NoAI
+description: No AI About Us Without Us ️
+author:
+
+theme: minima
+
+base_url: /no-ai.se
+repository:
+
+# Minima social links
+github_username: yinan16
+# linkedin_username:
+# rss:
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/blogs.md
+  - _pages/participate.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
+plugins:
+  - jemoji
+
+
+# Acknowledgement: Template is made by https://github.com/jsanz/gh-pages-minima-starter
