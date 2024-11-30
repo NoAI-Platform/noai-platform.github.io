@@ -7,7 +7,9 @@ list_title: News
 
 <img src="../assets/imgs/logo.png" alt="Welcome Image">
 
-## Welcome to our home page! This is where we share our latest news and development. Stay tuned! 🤩
+## 🌟 Welcome to Our Home Page 🌟
+
+We are dedicated to creating inclusive and innovative solutions for transportation and mobility systems, ensuring accessibility and safety for everyone. Explore our latest updates, projects, and progress here. 🤩
 
 
 <!-- [`minima` theme][minima] -->
