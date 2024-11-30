@@ -4,9 +4,7 @@ layout: page
 title: Projects
 ---
 
-# Projects 🚀
-
-Explore some of our ongoing and upcoming projects that drive inclusivity, accessibility, and innovation in transportation systems and mobility.
+Explore some of our ongoing and upcoming projects that drive inclusivity, accessibility, and innovation in transportation systems and mobility. 🚀
 
 ---
 
