@@ -1,0 +1,10 @@
+- name: Kalle
+  role: Project Inclusive Mobility Mapping (Vinnova)
+  description: UI/UX designer.
+  image: /assets/imgs/team2/profile-kalle.jpeg
+  link: https://www.boid.se/
+- name: Christian Berger
+  role: Project Inclusivity Index (Chalmers Area of Advance Transport).
+  description: Full Professor, Department of Computer Science and Engineering, University of Gothenburg, Sweden.
+  link: https://www.gu.se/en/about/find-staff/christianberger
+  image: /assets/imgs/team2/profile-christian.jpeg

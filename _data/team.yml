@@ -1,0 +1,25 @@
+- name: Yinan Yu
+  role: AI researcher and practitioner, project leader
+  description: Assistant Professor, Department of Computer Science and Engineering, Chalmers University of Technology.
+  image: /assets/imgs/team/profile-yinan.png
+  link: https://www.chalmers.se/en/persons/yinan/
+- name: Jörgen Lundälv
+  role: Disability researcher
+  description: Associate Professor in social work, Department of Social Work, University of Gothenburg; Associate Professor in traffic medicine (since 2007-), Department of Surgical and Perioperative Science, Unit for Surgery, at Umeå University.
+  image: /assets/imgs/team/profile-jorgen.jpeg
+  link: https://www.gu.se/om-universitetet/hitta-person/jorgenlundalv
+- name: Anna Carlsson
+  role: Traffic and mobility safety researcher
+  description: Expertise in safe mobility, accident and injury prevention.
+  image: /assets/imgs/team/profile-anna.jpeg
+  link: https://chalmersindustriteknik.se/coworkers/anna-carlsson/
+- name: Samuel Scheidegger
+  role: AI expert
+  description: CEO of Asymptotic AI; AI expert and IT infrastructure expert.
+  image: /assets/imgs/team/profile-samuel.jpeg
+  link: https://www.asymptotic.ai/
+- name: Helene Pilström
+  role: UI/UX design
+  description: Co-founder and business developer at Boid Design Studio.
+  image: /assets/imgs/team/profile-helene.jpeg
+  link: https://www.boid.se/
