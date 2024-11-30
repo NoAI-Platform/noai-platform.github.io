@@ -1,11 +1,11 @@
 ---
 permalink: /
 layout: home
-title: 
+title: Home
 list_title: News
 ---
 
-<img src="../assets/imgs/logo.png" alt="Welcome Image">
+<img src="../assets/imgs/logo.png" alt="Welcome Image NoAI Logo">
 
 ## 🌟 Welcome to Our Home Page 🌟
 
