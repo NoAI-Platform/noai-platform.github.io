@@ -1,35 +1,54 @@
 ---
 permalink: /participate
 layout: page
-title: Join Us
+title: Join us!
 ---
 
-## Would you like to share your story? ❤️
+# Join Our Community for Inclusive Traffic Safety ❤️
 
-We are looking to:
-- Build a community that amplifies voices and promotes inclusivity.
-- Integrate your motion patterns, experiences, and insights into AI systems designed to improve traffic safety, accessibility, and equity.
+<p align="center"><em>Together, we can create more inclusive and safer cities for everyone.</em></p>
+![Research Poster](assets/imgs/poster.jpeg)
 
-Your story matters, and we want to hear from you!
+## For Individuals 
 
-Share your story and join us for automotive sensor data collection!  
-[![View Poster](assets/imgs/poster.jpeg)](assets/imgs/poster.jpeg)
+### Share Your Story
+We believe every experience matters in building safer, more accessible cities. Your unique perspective can help:
+- Shape the future of traffic safety and urban design
+- Improve AI systems' understanding of diverse mobility patterns
+- Create more inclusive public spaces for everyone
 
-## How to Participate
+### How You Can Participate
+1. **Share Your Experience**  
+   Whether you navigate cities using a wheelchair, live with visual or hearing impairments, or have other mobility experiences to share, your story can make a difference.
 
-- **Share Your Experience:**  
-  Whether it's a personal journey, a challenge you've faced, or an insight you'd like to highlight, your contribution can make a difference.
+2. **Join Our Sensor Data Collection**  
+   Help us improve AI systems' ability to detect and respond to diverse mobility patterns.
 
-- **Send Us an Email:**  
-  Reach out directly to Jörgen Lundälv at [jorgen.lundalv@socwork.gu.se](mailto:jorgen.lundalv@socwork.gu.se). We would be delighted to hear from you and explore ways to collaborate.
+3. **Get in Touch**  
+   Contact Dr. Jörgen Lundälv at [jorgen.lundalv@socwork.gu.se](mailto:jorgen.lundalv@socwork.gu.se) to learn more or share your story.
 
-## Why Participate?
+## For Organizations 
 
-By sharing your story, you contribute to a platform that uses AI to drive accessible development for traffic safety and city infrastructure design. Together, we can:
+### Partner With Us
+We're building a network of organizations committed to improving traffic safety and accessibility. Together, we can:
+- Identify infrastructure gaps affecting your community
+- Create safer environments for all road users
+- Develop inclusive AI systems using real-world data
+- Design sustainable urban mobility solutions
 
-- Help identify gaps in current traffic infrastructure.  
-- Create a safer, more inclusive environment for road users with varying abilities.  
-- Benchmark AI-based detection and tracking systems using real-world data from diverse populations with varying abilities.  
-- Contribute to the design of inclusive and sustainable urban mobility systems.  
+### Current Partner Organizations
 
----
+#### Mobility & Physical Disability
+- [Personskadeförbundet RTP Göteborg](https://rtp.se/om-oss/lokalforeningar/goteborg/goteborgs-lokalforening-verksamhet/)
+- [DHR Göteborg](https://dhr.se/goteborg/) (Delaktighet, Handlingskraft, Rörelsefrihet)
+- [Unga Rörelsehindrade Göteborgsklubben](https://ungarorelsehindradegoteborgsklubben.se)
+- [Föreningen för De Neurosedynskadade (FfdN)](https://www.thalidomide.org)
+
+#### Sensory Disabilities
+- [Hörselskadades förening i Göteborg (HRF)](https://hrf.se/goteborg/)
+- [Synskadades Riksförbund i Göteborg](https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-goteborg/)
+
+### Join Our Network
+If your organization works with accessibility, mobility, or disability rights, we'd love to collaborate. Contact us to discuss partnership opportunities. Contact Dr. Jörgen Lundälv at [jorgen.lundalv@socwork.gu.se](mailto:jorgen.lundalv@socwork.gu.se) to learn more!
+
+
