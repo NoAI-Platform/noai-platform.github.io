@@ -48,6 +48,9 @@ We're building a network of organizations committed to improving traffic safety 
 - [Hörselskadades förening i Göteborg (HRF)](https://hrf.se/goteborg/)
 - [Synskadades Riksförbund i Göteborg](https://www.srf.nu/distrikt-lokal-och-branschforeningar/distrikt/srf-goteborg/)
 
+#### Neurological & Cognitive Disabilities
+- [Neuro Association](https://neuro.se/forening/foereningar-a-oe/goeteborg/blaenkare/projekt-om-trafiksaekerhet-och-foerflyttning-i-trafikmiljoeer/)
+
 ### Join Our Network
 If your organization works with accessibility, mobility, or disability rights, we'd love to collaborate. Contact us to discuss partnership opportunities. Contact Dr. Jörgen Lundälv at [jorgen.lundalv@socwork.gu.se](mailto:jorgen.lundalv@socwork.gu.se) to learn more!
 
